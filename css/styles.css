@@ -185,13 +185,11 @@ padding-right: 32px;
 
 
 .hero-btn:hover{
-color: #404BBF;
-background-color: #4D5AE5;;
+background-color: #404BBF;
 }
 
 .hero-btn:focus{
-color: #404BBF;
-background-color: #4D5AE5;
+background-color: #404BBF;
 }
 
 .present-class{
